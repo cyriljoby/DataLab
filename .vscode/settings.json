@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "commons-csv-1.10.0.jar"
+        ],
+        "exclude": [
+            "lib/jfreechart-1.0.19-demo.jar"
+        ]
+    }
+}
